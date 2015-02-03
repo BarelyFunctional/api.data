@@ -1,0 +1,4 @@
+package testpackage;
+
+interface Customer {
+}
